@@ -8,7 +8,7 @@ Chronometer is a Pygame-based clock application that displays the current time w
 
 ## Installation
 1. Clone the repository:
-    git clone https://github.com/UdemeobongUmoh-2201973/chronometer.git
+    git clone [https://github.com/UdemeobongUmoh-2201973/Chronometer-V1.0.0.git]
 
 2. Navigate to the project directory:
     cd chronometer
