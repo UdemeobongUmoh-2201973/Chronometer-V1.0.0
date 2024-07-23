@@ -3,12 +3,12 @@
 Chronometer is a Pygame-based clock application that displays the current time with visual elements and clock hands.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Pygame
 
 ## Installation
 1. Clone the repository:
-    git clone https://github.com/yourusername/chronometer.git
+    git clone https://github.com/UdemeobongUmoh-2201973/chronometer.git
 
 2. Navigate to the project directory:
     cd chronometer
